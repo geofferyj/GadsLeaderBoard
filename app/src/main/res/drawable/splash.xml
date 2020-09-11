@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/background" />
+    <item
+        android:width="253dp"
+        android:height="90dp"
+        android:drawable="@drawable/gads_logo"
+        android:gravity="center">
+
+    </item>
+</layer-list>
